@@ -26,7 +26,7 @@ Antes de começar, certifique-se de ter o Go instalado em seu sistema. Você pod
 Após a instalação do Go, você pode clonar o repositório do Sistema de Gerenciamento de Contas Correntes em seu diretório de trabalho usando o seguinte comando:
 
 ```bash
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/Lukasdias/curso-poo-golang-alura
 ```
 
 ## Uso Básico
